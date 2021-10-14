@@ -1,0 +1,12 @@
+{
+  "name": "casbin-server",
+  "version": "1.0.0",
+  "description": "casbin-server",
+  "main": "index.js",
+  "repository": "https://github.com/lctech-Neil/casbin-server.git",
+  "author": "lctech-Neil <89367508+lctech-Neil@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "casbin": "^5.11.5"
+  }
+}
