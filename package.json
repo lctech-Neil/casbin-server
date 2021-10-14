@@ -7,6 +7,7 @@
   "author": "lctech-Neil <89367508+lctech-Neil@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "casbin": "^5.11.5"
+    "casbin": "^5.11.5",
+    "express": "^4.17.1"
   }
 }
